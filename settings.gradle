@@ -1,3 +1,4 @@
 rootProject.name = 'java9-modules'
 include 'service-api'
 include 'service-core'
+include 'starter'
