@@ -1,0 +1,6 @@
+plugins {
+    id 'java-library'
+}
+
+group 'io.mikle.test.mds'
+version '1.0-SNAPSHOT'
